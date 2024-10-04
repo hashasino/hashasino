@@ -1,5 +1,5 @@
 ## Hi there 👋
-- *..I exist...*
+- *...I exist...*
 - Currently learning Java
 - Would like to learn Python & Web Dev
 <!--
