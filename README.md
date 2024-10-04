@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- I exist
+- Currently learning Java
+- Would like to learn Python & Web Dev
 <!--
 **hashasino/hashasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
